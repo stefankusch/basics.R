@@ -1,0 +1,46 @@
+To work with **R**, the data has to be in tabular format. If using *Excel*, mind the following points:
+- use only the necessary columns and rows in your table
+- avoid spaces in your row and column names
+- use international format for numbers (decimal symbol is a dot, not a comma!)
+- save your table as comma-delimited .csv or tab-delimited .txt
+
+After saving, it is recommended to look at your table with a text editor. Depending on your method in **R** tables can be organized in different ways (here, tab-delimited):
+
+Type I. 
+
+```
+sample  value1  value2  value3  value4
+wild.type 71  74  80  89
+mutant1 0 1 0 0.5
+mutant2 14  20  22  19
+``` 
+
+Type II. 
+
+``` 
+wild.type  mutant1 mutant2
+71  0 14
+74  1  20
+80  0  22
+89  0.5 19
+``` 
+
+Type III. Used for various statistical methods
+
+```
+sample  value
+Ingrid  71
+Ingrid  74
+Ingrid  80
+Ingrid  89
+mlo 0
+mlo 1
+mlo 0
+mlo 0.5
+ror1  14
+ror1  20
+ror1  22
+ror1  19
+``` 
+
+This made-up dataset contains three samples (here, genotypes), with four values each. Type I is the usual way the table should look like, and **R** has methods to transform tables according to specific needs. 
