@@ -15,3 +15,9 @@ The software and additional packages are deposited [here](https://cran.r-project
 **Reference**
 
 R Core Team (2014). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria.
+
+**Useful links**
+- nice R manual (http://www.statmethods.net/index.html)
+- R manual (https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/plot.html)
+- nice graphs manual for R (http://www.harding.edu/fmccown/r/)
+- very helpful forum (https://stackoverflow.com/)
