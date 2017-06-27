@@ -7,10 +7,10 @@ The software and additional packages are deposited [here](https://cran.r-project
 1. Preparing data for **R**
 2. Loading the data in **R**
 3. Basic commands in **R**
-  a. Mathematical operations
-  b. Calling data
-  c. Formatting the data
-  d. Writing tables to files
+  - Mathematical operations
+  - Calling data
+  - Formatting the data
+  - Writing tables to files
 4. Plotting data
 5. Statistical analysis
 6. Scripts and work-arounds
