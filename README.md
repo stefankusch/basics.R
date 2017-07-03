@@ -4,6 +4,7 @@ The software and additional packages are deposited [here](https://cran.r-project
 
 
 **Index**
+0. Scripts and work-arounds
 1. Preparing data for **R**
 2. Loading the data in **R**
 3. Basic commands in **R**
@@ -13,7 +14,7 @@ The software and additional packages are deposited [here](https://cran.r-project
    4. Writing tables to files
 4. Plotting data
 5. Statistical analysis
-6. Scripts and work-arounds
+6. 
 
 
 **Reference**
