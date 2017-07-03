@@ -4,6 +4,7 @@ The software and additional packages are deposited [here](https://cran.r-project
 
 
 **Index**
+
 0. Scripts and work-arounds
 1. Preparing data for **R**
 2. Loading the data in **R**
